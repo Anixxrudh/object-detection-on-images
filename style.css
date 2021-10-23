@@ -1,0 +1,31 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+margin-top: 20px;
+font-weight: bold;
+}
+
+body{
+    background-size: cover;
+}
+
+.menu{
+    float:left;
+    list-style: none;
+    color: white;
+    position: fixed;
+    background: transparent;
+    width: 100%;
+    margin-top: 80px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links{
+    display:block;
+    font-size: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
